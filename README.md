@@ -1,1 +1,1 @@
-# Agenda
+Este programa busca recopilar y validar actividades para crear una agenda ordenada por fechas, asimismo, se valida que los horarios de las actividades no sean iguales, el programa se debía de realizar a partir de estructuras, funciones, punteros y memoria dinámica
